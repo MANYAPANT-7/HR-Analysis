@@ -26,13 +26,7 @@ This project focuses on analyzing HR data to gain insights into employee trends,
 
 ## 🚀 How to Use  
 1. Clone this repository:  
-   ```sh
-   git clone https://github.com/your-username/hr-analytics-project.git
-   ```  
-2. Navigate to the project directory:  
-   ```sh
-   cd hr-analytics-project
-   ```  
+2. Navigate to the project directory:   
 3. Load the `HR_Analytics.csv` dataset into Power BI or Python  
 4. Clean and preprocess the data if necessary  
 5. Perform exploratory data analysis (EDA) to identify key insights  
